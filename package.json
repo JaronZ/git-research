@@ -1,0 +1,17 @@
+{
+  "name": "git-research",
+  "description": "Repository used to test git features",
+  "private": true,
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaronZ/git-research.git"
+  },
+  "keywords": [],
+  "author": "Jaron Zijlstra",
+  "bugs": {
+    "url": "https://github.com/JaronZ/git-research/issues"
+  },
+  "homepage": "https://github.com/JaronZ/git-research#readme"
+}
