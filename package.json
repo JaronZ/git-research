@@ -3,7 +3,9 @@
   "description": "Repository used to test git features",
   "private": true,
   "main": "src/index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node ."
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JaronZ/git-research.git"
